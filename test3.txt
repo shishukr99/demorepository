@@ -1,3 +1,4 @@
 this is to undetstand push
 sample update
 New line
+New line to understand the Git Automation
